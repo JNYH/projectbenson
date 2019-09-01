@@ -1,4 +1,4 @@
-# projectbenson
+# Project-Benson
 
 This is the first project in the Metis Data Science Bootcamp, done by my team of 3 members 
 (we are randomly grouped into groups of 4, but this team happens to be the remainding 3)
